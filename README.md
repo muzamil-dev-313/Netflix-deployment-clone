@@ -39,7 +39,7 @@ This project was built to practice:
 
 ## Live Demo
 
-https://deployment321.netlify.app/
+https://netfliz-deployment.netlify.app/
 
 ## Author
 
